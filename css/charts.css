@@ -1,0 +1,52 @@
+body {
+      font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#navHaut {
+  border-radius: 0;
+  border: none;
+  font-size: 1.1em;
+  margin-bottom: 0;
+}
+
+#titreSB {
+  font-size: 1.3em;
+}
+
+.sousMenu {
+  max-height: 25em;
+  overflow: auto;
+}
+/*################ NAV GAUCHE ######################""*/
+
+.vertiNav {
+  padding: 0;
+}
+
+#myTab {
+  background-color: #222;
+  width: 16%;
+  padding-bottom: 12em;
+  margin-top: 3.6em;
+  position: fixed;
+}
+
+#myTab li {
+
+}
+
+#myTab li a {
+  color: #9D9D9D;
+  padding-left: 1.5em;
+  border-radius: 0;
+  font-size: 1.2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#myTab li a:hover {
+  background-color: black;
+  color: white;
+}
+
+################################################""
